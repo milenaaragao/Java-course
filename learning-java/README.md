@@ -1,10 +1,28 @@
 # Java-udemy
 Projects carried out during the Java course at Udemy.
 
+
+## Section 07 – Mastering Object-Oriented Programming (OOP) in Java
+
+### Topics Covered
+
 This repository contains my exercises and projects developed during the course Java Programming Masterclass on Udemy, taught by Tim Buchalka.
 
-## Section 08 – Object-Oriented Programming (OOP) in Java
+In this section, I practiced essential Java programming concepts related to classes and object-oriented structure, including:
 
+- Creating and using custom classes
+- Defining constructors and using constructor overloading
+- Initializing objects and using instance fields and methods
+- Applying encapsulation:
+  - Declaring fields as `private`
+  - Providing `getters` and `setters` to control access
+  - Validating input in setter methods
+- Using `this` keyword for clarity and constructor chaining
+- Understanding and applying class composition (has-a relationships)
+- Organizing code into logical, modular structures
+
+
+## Section 08 – Advanced Object-Oriented Programming (OOP) in Java
 
 ### Topics Covered
 
