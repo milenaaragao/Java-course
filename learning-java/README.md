@@ -1,12 +1,12 @@
-# java-udemy
+# Java-udemy
 Projects carried out during the Java course at Udemy.
 
 This repository contains my exercises and projects developed during the course Java Programming Masterclass on Udemy, taught by Tim Buchalka.
 
-# Section 08 – Object-Oriented Programming (OOP) in Java
+## Section 08 – Object-Oriented Programming (OOP) in Java
 
 
-## Topics Covered
+### Topics Covered
 
 In this section, I practiced core Object-Oriented Programming (OOP) concepts in Java, including:
 
