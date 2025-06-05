@@ -78,8 +78,6 @@ This repository contains my exercises and projects developed during the course J
 
 ### Topics Covered
 
-In this section, I practiced essential Java programming concepts related to classes and object-oriented structure, including:
-
 - Creating and using custom classes
 - Defining constructors and using constructor overloading
 - Initializing objects and using instance fields and methods
@@ -96,8 +94,6 @@ In this section, I practiced essential Java programming concepts related to clas
 ## Section 08 – Advanced Object-Oriented Programming (OOP) in Java
 
 ### Topics Covered
-
-In this section, I practiced core Object-Oriented Programming (OOP) concepts in Java, including:
 
 - Class creation and encapsulation
 - Constructors and constructor overloading
