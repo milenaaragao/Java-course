@@ -103,6 +103,69 @@ This repository contains my exercises and projects developed during the course J
 - Polymorphism (dynamic method resolution)
 - Access modifiers and code organization
 
+
+
+## Section 09 – Advanced Arrays in Java: Single and Multi-Dimensional Techniques
+
+### Topics Covered
+
+- Deep dive into single-dimensional arrays and manipulation techniques
+- Working with multi-dimensional arrays (2D arrays and beyond)
+- Iterating using nested loops
+- Common pitfalls with array copying and resizing
+- Practical examples using arrays in real-world scenarios
+
+
+
+## Section 10 – Mastering Lists, Iterators, and Autoboxing: ArrayList, LinkedList & Enums
+
+### Topics Covered
+
+- ransitioning from arrays to Java’s List interface
+- Using ArrayList and LinkedList for dynamic data storage
+- Implementing and understanding ListIterator and Iterator
+- Autoboxing and unboxing with wrapper classes
+- Leveraging Enum types for structured constant values
+- Practical applications involving custom object lists
+
+
+
+## Section 11 – Mastering Abstraction & Interfaces: Expand Polymorphism & Java Hierarchies
+
+### Topics Covered
+
+- Building abstract classes and abstract methods
+- Interfaces: implementing multiple behaviors across class hierarchies
+- How polymorphism supports flexible, scalable code
+- Class hierarchies and method overriding in depth
+- Interface vs abstract class – when to use each
+- Real-world application design using abstraction
+
+
+
+## Section 12 – Deep Dive into Java Generics: Bounds, Comparators, and Advanced Techniques
+
+### Topics Covered
+
+- Introduction to generics and type safety
+- Declaring generic classes and methods
+- Upper and lower bounds (extends, super)
+- Implementing and using Comparator and Comparable interfaces
+- Generic wildcards and collections
+- Advanced use cases and best practices
+
+
+
+## Section 13 – Exploring Nested Classes, Local Types, and Anonymous Classes
+
+### Topics Covered
+
+- Static nested classes vs non-static inner classes
+- Local classes defined within methods
+- Anonymous classes: concise implementations of interfaces/abstract classes
+- Use cases in event-driven programming (e.g., UI callbacks, comparators)
+- Accessing variables from outer scopes and shadowing
+
 -------------------------------------------------------------------------------
 
 
