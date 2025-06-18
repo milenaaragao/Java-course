@@ -57,3 +57,21 @@ public class Main {
     } // it needed a generic method that works with any type (called from interface)
     // then it pass in different behavior using lambdas
 }
+
+
+/////////////////// operation interface ///////////////////////
+
+@FunctionalInterface //verify if it is a functional interface
+
+
+// this functional interface has exactly one abstract method - this is what allows lambdas to be used
+public interface Operation<T> {
+
+    //generic interface
+
+    T operate(T value1, T value2); //takes two args. of the same type and return a value also the same type
+
+
+
+
+}
